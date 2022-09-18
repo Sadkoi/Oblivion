@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 847072fc202a13c42a17d7bc02bc7f5e
+labels:
+- Architecture
+- Floor
+- Pattern
+- Plank
+- Tile
+- Wood
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
